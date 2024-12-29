@@ -1,2 +1,2 @@
-# Water-Potability-Detection
+# Water_Potability_Detection
 
